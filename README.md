@@ -78,7 +78,7 @@ During the internship period, I actively participated in community-oriented init
 
  **Full Project Report:**  
 <p>
-  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/rohan72004/SureTrust__SQL-PowerBi/blob/00afd52936018beeecab5683d7d4d63fd8739993/Project%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 ## Certificate
