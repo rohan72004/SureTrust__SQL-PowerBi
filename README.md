@@ -10,23 +10,17 @@
   <h3>Skill Upgradation for Rural Youth Empowerment</h3>
 </div>
 
----
-
-## 👤 Student Information
+## Student Information
 
 - **Name:** Rohan Singh  
 - **Program:** SQL & Power BI  
 - **Duration:** 6 Months  
 - **Institution:** University of Engineering & Management, Kolkata  
 
----
-
-## 📌 Project Title
+## Project Title
 ### **Tourism Demand Forecasting using Power BI**
 
----
-
-## 📑 Table of Contents
+## Table of Contents
 - [Project Overview](#project-overview)
 - [Dashboard Features](#dashboard-features)
 - [Technologies Used](#technologies-used)
@@ -36,16 +30,12 @@
 - [Certificate](#certificate)
 - [Acknowledgments](#acknowledgments)
 
----
-
-## 📊 Project Overview
+## Project Overview
 
 This project focuses on analyzing tourism arrival and spending data to identify demand patterns, seasonality, growth markets, and future trends.  
 An interactive Power BI dashboard was developed to support data-driven decision-making using KPIs, charts, slicers, and forecasting techniques.
 
----
-
-## 📈 Dashboard Features
+## Dashboard Features
 
 - Global overview of total visitors and total spend  
 - Country-level drill-through analysis  
@@ -54,9 +44,7 @@ An interactive Power BI dashboard was developed to support data-driven decision-
 - Arrivals vs Spend correlation  
 - Six-month tourism demand forecasting  
 
----
-
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Power BI**
 - **SQL**
@@ -64,17 +52,13 @@ An interactive Power BI dashboard was developed to support data-driven decision-
 - **Time-Series Forecasting**
 - **Data Visualization & Analytics**
 
----
-
-## 🎯 Key Learnings
+## Key Learnings
 
 - Practical understanding of tourism data modeling  
 - KPI creation and interactive dashboard design  
 - Identifying seasonality and growth markets  
 - Understanding that higher tourist volume does not always mean higher revenue  
 - Improved documentation, analysis, and presentation skills  
-
----
 
 ## 🤝 Community Service
 
@@ -90,16 +74,14 @@ During the internship period, I actively participated in community-oriented init
 - Promoted environmental sustainability  
 - Developed teamwork, communication, and leadership skills  
 
----
+## Project Report
 
-## 📄 Project Report
+ **Full Project Report:**  
+<p>
+  <a href="" target="_blank"><strong>→ View Full Project Report</strong></a>
+</p>
 
-📌 **Full Project Report:**  
-👉 *Add your PDF report link here*
-
----
-
-## 🏅 Certificate
+## Certificate
 
 The internship certificate acknowledges the successful completion of training and project requirements under SURE ProEd.
 
@@ -107,15 +89,13 @@ The internship certificate acknowledges the successful completion of training an
 <img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" width="80%">
 </p>
 
----
-
 ## 🙏 Acknowledgments
+**Prof. Radhakumari Challa** – Executive Director and Founder, **SURE Trust**, for providing the opportunity, guidance, and institutional support throughout the training program.
 
-- **Prof. Radhakumari Challa**  
-  *Executive Director & Founder – SURE Trust*  
+- **SURE ProEd Team** – For designing a structured learning curriculum and offering continuous mentorship during the course.
 
-- **SURE ProEd Team** for guidance and mentorship throughout the program
+- **Siddhika Shah** – Trainer, SURE ProEd, for clear explanations, practical insights, and consistent support during the project work.
 
----
+- **Abhishek** – Course Instructor (SQL & Power BI), for helping build strong fundamentals in data analysis and visualization.
 
 ⭐ *If you found this project insightful, feel free to star the repository!*
