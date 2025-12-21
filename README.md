@@ -90,12 +90,12 @@ The internship certificate acknowledges the successful completion of training an
 </p>
 
 ## 🙏 Acknowledgments
-**Prof. Radhakumari Challa** – Executive Director and Founder, **SURE Trust**, for providing the opportunity, guidance, and institutional support throughout the training program.
 
-- **SURE ProEd Team** – For designing a structured learning curriculum and offering continuous mentorship during the course.
+- [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/) For providing the opportunity, guidance, and institutional support throughout the training program.
+- [SURE ProEd Team](https://www.linkedin.com/company/suretrustforruralyouth/posts/?feedView=all) – For designing a structured learning curriculum and offering continuous mentorship during the course.
 
-- **Siddhika Shah** – Trainer, SURE ProEd, for clear explanations, practical insights, and consistent support during the project work.
+- [Siddhika Shah](https://www.linkedin.com/in/siddhika-shah-91963b1b4/) – Trainer, SURE ProEd, for clear explanations, practical insights, and consistent support during the project work.
 
-- **Abhishek** – Course Instructor (SQL & Power BI), for helping build strong fundamentals in data analysis and visualization.
+- Abhishek Ramachandran – Course Instructor (SQL & Power BI), for helping build strong fundamentals in data analysis and visualization.
 
 ⭐ *If you found this project insightful, feel free to star the repository!*
