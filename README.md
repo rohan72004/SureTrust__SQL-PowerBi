@@ -64,8 +64,7 @@ An interactive Power BI dashboard was developed to support data-driven decision-
 
 During the internship period, I actively participated in community-oriented initiatives aimed at social responsibility and environmental awareness.
 
-### Activities
-- **Blood Donation Camp Support**  
+### Activities 
 - **Tree Plantation Drive**  
 - **Assisting Elder Citizens**
 
