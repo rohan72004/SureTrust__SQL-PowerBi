@@ -15,7 +15,7 @@
 - **Name:** Rohan Singh  
 - **Program:** SQL & Power BI  
 - **Duration:** 6 Months  
-- **Institution:** University of Engineering & Management, Kolkata  
+- **Institution:** University of Engineering and Management, Kolkata  
 
 ## Project Title
 ### **Tourism Demand Forecasting using Power BI**
