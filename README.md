@@ -85,7 +85,7 @@ During the internship period, I actively participated in community-oriented init
 The internship certificate acknowledges the successful completion of training and project requirements under SURE ProEd.
 
 <p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" width="80%">
+<img src="Rohan_InternshipCompletionCertificate.png" width="80%">
 </p>
 
 ## 🙏 Acknowledgments
